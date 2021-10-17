@@ -38,15 +38,7 @@
   "searchable": 1,
   "quickSearch": 0,
   "filterable": 1
-},
-{
-  "key": "csp_N0ys",
-  "name": "90影视(爬虫)",
-  "type": 3,
-  "api": "csp_N0ys",
-  "searchable": 1,
-  "quickSearch": 0,
-  "filterable": 0
+
 },
   {
     "key": "csp_Nekk",
