@@ -4,12 +4,6 @@
 
     {
     "key": "csp_Aidi",
-    "name": ###
-{
-  "sites": [
-
-    {
-    "key": "csp_Aidi",
     "name": "爱迪(爬虫)",
     "type": 3,
     "api": "csp_Aidi",
