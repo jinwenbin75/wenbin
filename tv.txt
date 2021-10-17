@@ -324,9 +324,6 @@
       "api": "http://api.dbyunzy.com/api.php/provide/vod/?ac=list",
       "playUrl": "",
       "categories": [
-        "电影",
-        "综艺",
-        "动漫",
         "动作片",
         "喜剧片",
         "爱情片",
