@@ -390,16 +390,6 @@
         "其他片",
         "泰国剧",
       ]
-    },
-      {
-      "key": "红牛资源",
-      "name": "红牛资源",
-      "type": 0,
-      "api": "https://www.hongniuzy.com/inc/hnm3u8.php",
-      "playUrl": "https://www.tutukiki.com/m3u8/?url=",
-      "searchable": 1,
-      "filterable": 0,
-      "categories": []
        },
       {
                 "key": "唐人街",
