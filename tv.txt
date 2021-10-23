@@ -1,5 +1,4 @@
-{
-  "spider": "https://gitee.com/CCSHCoder/CatVodTVSpider/raw/master/jar/custom_spider.jar",
+
   "sites": [
     {
       "key": "csp_EPangApp",
