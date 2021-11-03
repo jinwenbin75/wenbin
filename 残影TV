@@ -1,4 +1,6 @@
 点播：
+唐人街,https://www.tangrenjie.tv/api.php/provide/vod/at/xml,空
+欧乐影院,https://www.olevod.tv/api.php/provide/vod/at/xml,空
 快播云,http://www.kuaibozy.com/api.php/provide/vod/at/xml,解析
 柚子,http://tv.aitesucai.xyz/api.php/provide/vod/at/xml,空
 极品影视,https://www.qilinzyz.com/api.php/provide/vod/at/xml,解析
