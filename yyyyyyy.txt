@@ -28,36 +28,6 @@
       ]
     },
     {
-      "key": "欧乐影院",
-      "name": "欧乐影院",
-      "type": 0,
-      "api": "https://www.olevod.tv/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "犯罪片",
-        "奇幻片",
-        "悬疑片",
-        "动画片",
-        "惊悚片",
-        "古装片",
-        "泰国剧",
-        "其他剧"
-      ]
-    },
-    {
       "key": "csp_Aidi",
       "name": "爱迪(爬虫)",
       "type": 3,
@@ -183,7 +153,7 @@
       "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/olevod.json"
     },
     {
