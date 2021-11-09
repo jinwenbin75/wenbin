@@ -146,10 +146,21 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1
+
     },
     {
       "key": "csp_xpath_94sm",
       "name": "94神马(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/olevod.json"      
+    },
+    {
+      "key": "csp_xpath_olevod",
+      "name": "欧乐影院(XPath)",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
