@@ -153,9 +153,9 @@
       "name": "欧乐影院(XPath)",
       "type": 3,
       "api": "csp_XPath",
-      "searchable": 2,
-      "quickSearch": 2,
-      "filterable": 5,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/olevod.json"      
     },
     {
