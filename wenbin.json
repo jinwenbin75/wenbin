@@ -156,7 +156,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/olevod.json"      
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/CatVodTVSpider-master/xpath/olevod.json"      
     },
     {
       "key": "csp_xpath_94sm",
@@ -166,7 +166,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/94sm.json"
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/CatVodTVSpider-master/xpath/94sm.json"
     },
     {
       "key": "csp_xpath_jpys",
