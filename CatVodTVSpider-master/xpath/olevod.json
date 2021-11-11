@@ -10,7 +10,7 @@
 		"连续剧": "2",
 		"综艺": "3",
 		"动漫": "4",
-		"纪录片": "5"  
+		"午夜影院": "5"  
   },    
   "homeVodNode": "//div[contains(@class, 'pannel')]//ul[contains(@class,'vodlist vodlist_wi list_v12 clearfix')]/li//a[contains(@class,'vodlist_thumb')]",
   "homeVodName": "/@title",
@@ -56,7 +56,7 @@
   "dtUrlIdR": "/index.php/vod/play/id/(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
-  "playUrl": "https://olevod.com/index.php/vod/play/id/{playUrl}.html",
+  "playUrl": "",
   "playUa": "",
   "searchUrl": "https://olevod.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode": "json:list",
