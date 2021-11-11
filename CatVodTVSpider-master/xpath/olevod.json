@@ -56,7 +56,7 @@
   "dtUrlIdR": "/index.php/vod/play/id/(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
-  "playUrl": "",
+  "playUrl": "https://olevod.com/index.php/vod/id/{playUrl}.html",
   "playUa": "",
   "searchUrl": "https://olevod.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode": "json:list",
