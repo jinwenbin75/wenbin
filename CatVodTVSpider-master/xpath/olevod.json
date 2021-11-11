@@ -1,5 +1,5 @@
 {
-"ua":",
+"ua":
   "homeUrl": "https://olevod.com",
 "cateNode": "//ul[contains(@class,'top_nav clearfix')]//li/a[contains(@href,'type')and not(contains(@href,'5'))]",
   "cateName": "/text()",
