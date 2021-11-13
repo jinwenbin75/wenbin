@@ -35,7 +35,6 @@
   "dtImgR": "\\S+(http\\S+)",
 
   "dtDescR": "",
-  "dtFromNode": "//div[contains(@class,'play_source_tab')]/a",
   "dtFromName": "/@alt",
   "dtFromNameR": "",
   "dtUrlNode": "//div[contains(@class,'playlist_full')]/ul[contains(@class,'content_playlist clearfix')]",
