@@ -44,7 +44,7 @@
   "dtUrlIdR": "/index.php/vod/play/id/(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
-  "playUrl": "https://www.olevod.com/index.php/vod/play/id/{playUrl}.html",
+  "playUrl": "https://www.olevod.com/index.php/vod/play/id/{play}.html",
   "playUa": "",
   "searchUrl": "https://www.olevod.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode": "json:list",
