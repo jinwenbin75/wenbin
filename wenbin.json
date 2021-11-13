@@ -156,7 +156,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/jinwenbin75/wenbin/edit/main/wenbin.json"      
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/4kyu.json"      
     },
     {      
       "key": "csp_xpath_555",
@@ -166,7 +166,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/CatVodTVSpider-master/xpath/tvci.json"
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/555.json"
     },
     {
       "key": "csp_xpath_agefans",
@@ -176,7 +176,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jpys.json"
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/agefans.json"
     },
     {
       "key": "csp_xpath_cjt",
@@ -186,7 +186,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/agefans.json"
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/cjtys.json"
     },
     {
       "key": "csp_xpath_dm84",
@@ -196,7 +196,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jpys.json"
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/dm84.json"
     },
     {
       "key": "csp_xpath_duboku",
@@ -206,7 +206,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/cjtys.json"
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/duboku.json"
     },
     {
       "key": "csp_xpath_egg",
@@ -216,7 +216,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/nfmovie.json"
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/egg.json"
     },
     {
       "key": "csp_xpath_jpys",
@@ -226,7 +226,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jumi.json"
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/jpys.json"
     },
     {
       "key": "csp_xpath_jumi",
@@ -236,7 +236,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/tvci.json"
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/jumi.json"
     },
     {
       "key": "csp_xpath_miniku",
@@ -246,7 +246,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/duboku.json"
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/miniku.json"
     },
     {
       "key": "csp_xpath_olevod",
@@ -256,7 +256,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/saohuotv2.json"
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/olevod.json"
     },
     {
       "key": "csp_xpath_pianba",
@@ -266,7 +266,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/dm84.json"
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/pianba.json"
     },
     {
       "key": "csp_xpath_sky4k",
@@ -276,7 +276,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/egg.json"
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/sky4k.json"
     },
     {
       "key": "csp_tvci",
@@ -286,7 +286,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/yyds.json"
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/tvci.json"
     },
     {
       "key": "csp_xpath_yyds",
@@ -296,7 +296,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/555.json"
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/yyds.json"
     },
     {
       "key": "资源采集",
