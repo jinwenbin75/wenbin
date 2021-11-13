@@ -179,7 +179,7 @@
       "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/agefans.json"
     },
     {
-      "key": "csp_xpath_cjt",
+      "key": "csp_xpatht_cjtys",
       "name": "cjt影院(XPath)",
       "type": 3,
       "api": "csp_XPath",
