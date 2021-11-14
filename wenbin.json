@@ -156,7 +156,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/94sm.json"      
+      "ext": "https://github.com/catvod/CatVodTVSpider/raw/master/xpath/94sm.json"      
     },
     {        
       "key": "csp_xpath_mbo",
