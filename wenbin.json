@@ -149,6 +149,16 @@
 
     },
     {
+      "key": "csp_xpath_hfys",
+      "name": "嘿锋影视(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/hfys.json"      
+    },
+    {            
       "key": "csp_xpath_4kyu",
       "name": "4k鱼(XPath)",
       "type": 3,
