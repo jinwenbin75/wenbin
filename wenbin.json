@@ -159,16 +159,6 @@
       "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/mbo.json"      
     },
     {            
-      "key": "csp_xpath_nddy",
-      "name": "俺的电影网(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/nddy.json"      
-    },
-    {      
       "key": "csp_xpath_yhdm",
       "name": "樱花动漫(XPath)",
       "type": 3,
