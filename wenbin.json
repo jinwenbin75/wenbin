@@ -149,7 +149,7 @@
 
     },
     {
-      "key": "csp_xpath_94sm",
+      "key": "csp_xpath_lezhutv",
       "name": "优酷(XPath)",
       "type": 3,
       "api": "csp_XPath",
@@ -168,17 +168,7 @@
       "filterable": 0,
       "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/mbo.json"      
     },
-    {            
-      "key": "csp_xpath_bde4",
-      "name": "哔嘀影视(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/bde4.json"
-    },
-    {      
+    {               
       "key": "csp_xpath_hfys",
       "name": "嘿锋影视(XPath)",
       "type": 3,
