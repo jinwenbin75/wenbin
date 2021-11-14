@@ -298,6 +298,16 @@
       "filterable": 0,
       "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/yyds.json"
     },
+    {      
+      "key": "csp_xpath_gimytv",
+      "name": "劇迷影音(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/gimytv.json"
+    },
     {
       "key": "资源采集",
       "name": "资源采集",
