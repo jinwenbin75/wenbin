@@ -149,6 +149,16 @@
 
     },
     {
+      "key": "csp_xpath_94sm",
+      "name": "优酷(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/94sm.json"      
+    },
+    {        
       "key": "csp_xpath_mbo",
       "name": "mbo影视(XPath)",
       "type": 3,
@@ -159,14 +169,14 @@
       "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/mbo.json"      
     },
     {            
-      "key": "csp_xpath_yhdm",
-      "name": "樱花动漫(XPath)",
+      "key": "csp_xpath_bde4",
+      "name": "哔嘀影视(XPath)",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/yhdm.json"
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/bde4.json"
     },
     {      
       "key": "csp_xpath_hfys",
