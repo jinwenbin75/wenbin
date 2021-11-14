@@ -296,7 +296,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/olevod.json"
+      "ext": "https://github.com/catvod/CatVodTVSpider/raw/master/xpath/olevod.json"
     },
     {
       "key": "csp_xpath_pianba",
