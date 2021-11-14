@@ -210,7 +210,7 @@
     },
     {
       "key": "csp_xpath_egg",
-      "name": "蛋蛋赞影院(XPath)",
+      "name": "蛋蛋影院(XPath)",
       "type": 3,
       "api": "csp_XPathNfMov",
       "searchable": 1,
