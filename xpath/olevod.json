@@ -1,7 +1,7 @@
 {
   "ua": "",
   "homeUrl": "https://olevod.com",
-"cateNode": "//ul[contains(@class,'top_nav clearfix')]//li/a[contains(@href,'type')and not(contains(@href,'0'))]",
+"cateNode": "//ul[contains(@class,'top_nav clearfix')]//li/a[contains(@href,'type')and not(contains(@href,'6'))]",
   "cateName": "/text()",
   "cateId": "/@href",
   "cateIdR": "/index.php/vod/type/id/(\\d+).html",
