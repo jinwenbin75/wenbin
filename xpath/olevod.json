@@ -1,7 +1,7 @@
 {
   "ua": "",
   "homeUrl": "https://olevod.com",
-"cateNode": "//ul[contains(@class,'top_nav clearfix')]//li/a[contains(@href,'type')and not(contains(@href,'6'))]",
+"cateNode": "//ul[contains(@class,'top_nav clearfix')]//li/a[contains(@href,'type')and not(contains(@href,'9'))]",
   "cateName": "/text()",
   "cateId": "/@href",
   "cateIdR": "/index.php/vod/type/id/(\\d+).html",
@@ -10,7 +10,7 @@
 		"电视剧": "2",
 		"综艺": "3",
 		"动漫": "4",
-		"午夜影院": "34"
+		"午夜影院": "5"
 		"VIP蓝光影院": "6"     
   },    
   "homeVodNode": "//div[contains(@class, 'pannel')]//ul[contains(@class,'vodlist vodlist_wi list_v12 clearfix')]/li//a[contains(@class,'vodlist_thumb')]",
