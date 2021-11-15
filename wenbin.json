@@ -150,7 +150,7 @@
     },
     {
       "key": "csp_xpath_lezhutv",
-      "name": "优酷(XPath)",
+      "name": "乐猪TV(XPath)",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
