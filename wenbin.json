@@ -577,8 +577,8 @@
       "api": "http://c.bukai.men/api.php/provide/vod/at/xml"
     },
     {
-      "key": "呆呆影视",
-      "name": "呆呆影视",
+      "key": "奈菲迷",
+      "name": "奈菲迷",
       "type": 1,
       "api": "https://zyplayer.naifeimi.com/api.php/provide/vod/?ac=list",
       "playUrl": "https://svip.naifeimi.com/nfm/?url="
