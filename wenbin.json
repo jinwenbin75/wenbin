@@ -580,8 +580,8 @@
       "key": "呆呆影视",
       "name": "呆呆影视",
       "type": 1,
-      "api": "http://tv.daidaitv.top:43800/api.php/provide/vod/?ac=list",
-      "playUrl": "https://jx.renrenmi.cc/?url="
+      "api": "https://zyplayer.naifeimi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://svip.naifeimi.com/nfm/?url="},
     },
     {
       "key": "嘀哩TV",
