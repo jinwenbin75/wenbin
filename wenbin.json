@@ -191,7 +191,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/libvio.json"
+      "ext": "https://cdn.jsdelivr.net/gh/jinwenbin75/wenbin@main/xpath/libvio.json"
     },
     {      
       "key": "csp_xpath_lezhutv",
