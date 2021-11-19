@@ -134,6 +134,66 @@
 
     },
     {
+      "key": "csp_xpath_98",
+      "name": "980影院XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/98.json"      
+    },
+    {        
+      "key": "csp_xpath_fantuan",
+      "name": "饭团影院(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/fantuan.json"      
+    },
+    {               
+      "key": "csp_xpath_cjtys",
+      "name": "cjt影视(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/cjtys.json"      
+    },
+    {            
+      "key": "csp_xpath_jpys",
+      "name": "精品影视(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/jpys.json"      
+    },
+    {      
+      "key": "csp_xpath_jumi",
+      "name": "戏迷影视(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/jumi.json"
+    },
+    {
+      "key": "csp_xpath_libvio",
+      "name": "libvio影视(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/libvio.json"
+    },
+    {      
       "key": "csp_xpath_lezhutv",
       "name": "乐猪TV(XPath)",
       "type": 3,
