@@ -174,16 +174,6 @@
       "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/jpys.json"      
     },
     {      
-      "key": "csp_xpath_jumi",
-      "name": "戏迷影视(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/jumi.json"
-    },
-    {
       "key": "csp_xpath_libvio",
       "name": "libvio影视(XPath)",
       "type": 3,
