@@ -55,12 +55,12 @@
       "key": "csp_YydsAli1",
       "name": "YYDS阿里(爬虫)",
       "type": 3,
-      "api": "csp_YydsAli1",
+      "api": "csp_Nekk",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
     },
-    {      
+    {  
       "key": "csp_Nekk",
       "name": "9E看看(爬虫)",
       "type": 3,
