@@ -351,7 +351,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/tvci.json"
+      "ext": "https://cdn.jsdelivr.net/gh/jinwenbin75/wenbin@main/xpath/tvci.json"
     },
     {
       "key": "csp_xpath_yyds",
@@ -361,7 +361,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/yyds.json"
+      "ext": "https://cdn.jsdelivr.net/gh/jinwenbin75/wenbin@main/xpath/yyds.json"
     },
     {      
       "key": "csp_xpath_gimytv",
