@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/CCSHCoder/CatVodTVSpider/raw/master/jar/custom_spider.jar;md5;885581303609c36c98e54c729fe3506f",
+  "spider": "https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
   "sites": [
     {
       "key": "唐人街",
