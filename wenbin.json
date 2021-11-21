@@ -2809,6 +2809,30 @@
       "group": "速度噭凊",
       "channels": [
         {
+          "name": "全新影片",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid="
+          ]
+        },
+        {
+          "name": "欧美大片",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/2793084rXmcC867I.flv?uuid="
+          ]
+        },
+        {
+          "name": "科幻电影",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/4332r2mrBM7tt0Cn.flv?uuid="
+          ]
+        },
+        {
+          "name": "科幻动作",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/252802rlgkoIq5NC.flv?uuid="
+          ]
+        },
+        {          
           "name": "噭凊1",
           "urls": [
             "https://cdn2.bzjupinhang.com:65/20210523/u55gF3Mv/1500kb/hls/index.m3u8"
@@ -2873,18 +2897,16 @@
   ],
   "parses": [
     {
-      "name": "Json并发",
-      "type": 2,
-      "url": "Parallel"
+      "name": "线路二(国外)",
+      "url": "https://jx.ppflv.com/?url="
     },
     {
-      "name": "Json轮询",
-      "type": 2,
-      "url": "Sequence"
+      "name": "线路三(备用)",
+      "url": "https://jx.duzheba.cn/?url="
     },
     {
-      "name": "parwix解析",
-      "url": "https://jx.parwix.com:4433/player/?url="
+      "name": "番茄弹幕解析",
+      "url": "http://jiexi.fqzy.cc/player/jx.php?url="
     },
     {
       "name": "默认",
