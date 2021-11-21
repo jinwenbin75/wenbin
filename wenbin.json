@@ -222,17 +222,7 @@
       "filterable": 0,
       "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/hfys.json"      
     },
-    {            
-      "key": "csp_xpath_4kyu",
-      "name": "4k鱼(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/4kyu.json"      
-    },
-    {      
+    {                
       "key": "csp_xpath_555",
       "name": "555影视(XPath)",
       "type": 3,
@@ -251,16 +241,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/agefans.json"
-    },
-    {
-      "key": "csp_xpatht_cjtys",
-      "name": "cjt影院(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/cjtys.json"
     },
     {
       "key": "csp_xpath_dm84",
