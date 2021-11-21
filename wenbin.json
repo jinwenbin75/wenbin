@@ -140,9 +140,28 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1
-
     },
     {
+     "key": "csp_xpath_saohuotv",
+     "name": "骚火电影(XPath)",
+     "type": 3,
+     "api": "csp_XPath",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 0,
+     "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/saohuotv2.json"
+},
+{      
+    "key": "csp_xpath_94sm",
+    "name": "94神马(XPath)",
+    "type": 3,
+    "api": "csp_XPath",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/94sm.json"
+},
+{      
       "key": "csp_xpath_98",
       "name": "980影院XPath)",
       "type": 3,
