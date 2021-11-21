@@ -363,16 +363,6 @@
       "ext": "https://cdn.jsdelivr.net/gh/jinwenbin75/wenbin@main/xpath/tvci.json"
     },
     {
-      "key": "csp_xpath_yyds",
-      "name": "yyds影院(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/jinwenbin75/wenbin@main/xpath/yyds.json"
-    },
-    {      
       "key": "csp_xpath_gimytv",
       "name": "劇迷影音(XPath)",
       "type": 3,
@@ -966,12 +956,6 @@
       "api": "http://api.000zy.com/provide/vod/from/youku/at/xml"
     },
     {
-      "key": "饭团影院",
-      "name": "饭团影院",
-      "type": 0,
-      "api": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml"
-    },
-    {
       "key": "1905",
       "name": "1905",
       "type": 0,
@@ -983,12 +967,6 @@
       "name": "网民电影",
       "type": 0,
       "api": "https://www.prinevillesda.org/api.php/provide/vod/at/xml"
-    },
-    {
-      "key": "五一",
-      "name": "五一",
-      "type": 0,
-      "api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml"
     },
     {
       "key": "嗨哆咪影视",
