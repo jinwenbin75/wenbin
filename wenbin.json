@@ -1050,13 +1050,6 @@
       "playUrl": "https://www.hongniujiexi.com/m3u8/?url="
     },
     {
-      "key": "17",
-      "name": "17",
-      "type": 0,
-      "api": "http://zy.itono.cn/inc/api.php",
-      "searchable": 0
-    },
-    {
       "key": "17腾讯",
       "name": "17腾讯",
       "type": 0,
