@@ -1091,12 +1091,6 @@
       "playUrl": "https://ldy.jx.cn/wp-api/ifr.php?vid="
     },
     {
-      "key": "竹噶影院",
-      "name": "竹噶影院",
-      "type": 0,
-      "api": "http://m.ycccyk.cn/api.php/provide/vod/at/xml"
-    },
-    {
       "key": "*5X资源",
       "name": "*5X资源",
       "type": 0,
