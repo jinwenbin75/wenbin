@@ -11,6 +11,7 @@
   "cateId": "/@href",
   "cateIdR": "/index.php/vod/type/id/(\\d+).html",
   "cateManual": {
+		"首页": "0",	  
 		"电影": "1",
 		"电视剧": "2",
 		"综艺": "3",
