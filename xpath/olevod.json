@@ -16,7 +16,7 @@
 		"综艺": "3",
 		"动漫": "4",
 		"午夜影院": "5"
-		"vip蓝光影院": "0",	  
+		"vip蓝光影院": "10",	  
   },    
   "homeVodNode": "//div[contains(@class, 'pannel')]//ul[contains(@class,'vodlist vodlist_wi list_v12 clearfix')]/li//a[contains(@class,'vodlist_thumb')]",
   "homeVodName": "/@title",
