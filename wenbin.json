@@ -339,7 +339,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/xpath/sky4k.json"
+      "ext": "http://146.56.101.56/xpath/sky4k.json"
     },
     {
       "key": "csp_tvci",
@@ -349,7 +349,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/jinwenbin75/wenbin@main/xpath/tvci.json"
+      "ext": "http://146.56.101.56/xpath/tvci.json"
     },
     {
       "key": "csp_xpath_gimytv",
