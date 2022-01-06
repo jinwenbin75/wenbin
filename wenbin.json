@@ -1,6 +1,6 @@
 {
-"spider": "https://github.com/YuanHsing/OneClickRun/blob/master/xpath/main_spider.txt?raw=true",
-"spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/main_spider.txt;md5;d9c1641b4ff8345ebbef165208fe10c5",
+"spider": "https://picsum.photos/1280/720/?blur=10",
+"spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/main_spider.txt;md5;a2306aaca7ae7afa0d900a33bce07346",
 "sites":[
 {"key":"2345_spider","name":"2345影视(官源)","type":3,"api":"csp_YS2345","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/2345.json"},
 {"key":"sogou_spider","name":"搜狗影视(官源)","type":3,"api":"csp_YSSogou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/sogou.json"},
