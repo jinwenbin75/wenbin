@@ -2,34 +2,36 @@
 "spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
 //"spider":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
 "sites":[
-      "key": "腾讯(官源)",
-      "name": "腾讯(官源) ",
-      "type": 0,
-      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/from/qq/at/xml/",
-      "playUrl": "https://jx.xmflv.vip/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "优酷(官源)",
-      "name": "优酷(官源) ",
-      "type": 0,
-      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",
-      "playUrl": "https://jx.xmflv.vip/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "爱奇艺(官源)",
-      "name": "爱奇艺(官源) ",
-      "type": 0,
-      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/from/qiyi/at/xml/",
-      "playUrl": "https://jx.xmflv.vip/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
+"key": "腾讯(官源)",
+"name": "腾讯(官源) ",
+"type": 0,
+"api": "http://www.zycaiji.net:7788/api.php/provide/vod/from/qq/at/xml/",
+"playUrl": "https://jx.xmflv.vip/?url=",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0
+},
+{
+"key": "优酷(官源)",
+"name": "优酷(官源) ",
+"type": 0,
+"api": "http://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",
+"playUrl": "https://jx.xmflv.vip/?url=",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0
+},
+{
+"key": "爱奇艺(官源)",
+"name": "爱奇艺(官源) ",
+"type": 0,
+"api": "http://www.zycaiji.net:7788/api.php/provide/vod/from/qiyi/at/xml/",
+"playUrl": "https://jx.xmflv.vip/?url=",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0
+},
+{      
           
 {"key" : "欧乐影院", "name" : "欧乐影院", "type" : 0, "api" : "https://www.olevod.tv/api.php/provide/vod/at/xml/","playUrl": "",
 "categories": ["国产剧","港台剧","日韩剧","欧美剧","泰剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]},  
