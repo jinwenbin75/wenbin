@@ -2,11 +2,20 @@
 "spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
 //"spider":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
 "sites":[
- {"key" : "欧乐影院", "name" : "欧乐影院", "type" : 0, "api" : "https://www.olevod.tv/api.php/provide/vod/at/xml/","playUrl": "",
+{"key" : "欧乐影院", "name" : "欧乐影院", "type" : 0, "api" : "https://www.olevod.tv/api.php/provide/vod/at/xml/","playUrl": "",
 "categories": ["国产剧","港台剧","日韩剧","欧美剧","泰剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]},  
 {"key": "快播云","name": "快播云","type": 0,"api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/","playUrl": "",
-"categories": ["国产剧","港台剧","日韩剧","欧美剧","泰剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]},     
-  
+"categories": ["国产剧","港台剧","日韩剧","欧美剧","泰剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]},
+{"key": "影世界","name": "影世界","type": 1,"api": "http://video.yingworld.vip/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1,"categories": ["电影","连续剧","综艺","动漫","4K专区"]},
+{"key" : "喵派对蓝光", "name" : "喵派对蓝光", "type" : 0, "api" : "https://www.mgtv.one/api.php/provide/vod/at/xml", "playUrl" : "http://renren.ga/jxphp/nfm/miaop.php?url=","searchable": 1,"quickSearch":1,"categories": ["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","其他剧"]},
+{"key": "可米","name": "可米看片","type": 1,"api": "http://www.kmysw.vip/api.php/provide/vod/?ac=list","playUrl": "","searchable": 0,"filterable": 0},
+{"key": "Qiyi资源","name": "Qiyi采集","type": 0,"api": "http://zy.yilans.net:8090/api.php/provide/vod/from/qiyi/at/xml/","playUrl": "","searchable": 1,"quickSearch": 0,"categories": ["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","魔幻片","冒险片","悬疑片","记录片","犯罪片","其他片","动画片"]},
+{"key": "youku资源","name": "优酷采集","type": 0,"api": "http://zy.yilans.net:8090/api.php/provide/vod/from/youku/at/xml/","playUrl": "","searchable": 1,"quickSearch": 0,"categories": ["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","魔幻片","冒险片","悬疑片","记录片","犯罪片","其他片","动画片"]},
+{"key": "腾讯资源","name": "腾讯采集","type": 0,"api":"http://zy.yilans.net:8090/api.php/provide/vod/from/qq/at/xml/","playUrl": "","searchable": 1,"quickSearch": 0,"categories": ["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","魔幻片","冒险片","悬疑片","记录片","犯罪片","其他片","动画片"]},
+{"key": "PPTV资源","name": "PPTV采集","type": 0,"api": "http://zy.yilans.net:8090/api.php/provide/vod/from/pptv/at/xml/","playUrl": "","categories": ["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","魔幻片","冒险片","悬疑片","记录片","犯罪片","其他片","动画片"]},
+{"key": "芒果资源","name": "芒果TV采集","type": 0,"api":"http://zy.yilans.net:8090/api.php/provide/vod/from/mgtv/at/xml/","playUrl": "","searchable": 1,"quickSearch": 0,"categories": ["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","魔幻片","冒险片","悬疑片","记录片","犯罪片","其他片","动画片"]},
+{"key": "NETFLIXMI","name": "NETFLIXMI","type": 1,"api": "http://shdmv.com/api.php/provide/vod/?ac=list","playUrl": "","searchable": 1,"quickSearch":1,"categories": ["欧美剧","国产剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","综艺","动漫"]},
+ 
 {"key":"csp_appys_xiaogui_躺平影视","name":"躺平影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_躺平影视"},
 {"key":"csp_appys_v1_大熊影视","name":"大熊影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_大熊影视"},
 {"key":"独播库","name":"独播库(XPMac)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/duboku2.json"},
