@@ -411,6 +411,12 @@
 ],
 "lives":[
 {"group":"douyu(Exo播放器)","channels":[
+{"name":"瑞安综合","urls":["http://stream.rabtv.cn/xwzh/playlist.m3u8?_upt=4d7279bd1633268185"]},
+{"name":"瑞安文化","urls":["http://stream.rabtv.cn/jjwh/playlist.m3u8?_upt=f355e93d1633268224"]},
+{"name":"温州新闻综合","urls":["rtmp://livetv.dhtv.cn/live/news"]},
+{"name":"凤凰资讯","urls":["http://ott.js.chinamobile.com/TVOD/3/224/3221228098/index.m3u8"]},
+{"name":"凤凰中文","urls":["http://ott.js.chinamobile.com/TVOD/3/224/3221228057/index.m3u8"]},
+{"name":"凤凰香港","urls":["http://ott.js.chinamobile.com/TVOD/3/224/3221228060/index.m3u8"]},
 {"name":"【RM-轮播】轮播！模式-24H欢乐不断","urls":["http://dyscdnali1.douyucdn.cn/live/7298973rwvQglOO6.flv?uuid="]},
 {"name":"【RM-点播】点播！模式-24H欢乐不断","urls":["http://dyscdnali1.douyucdn.cn/live/131977rb5GOrl6uS.flv?uuid="]},
 {"name":"【特辑】精彩大片，欢迎品鉴","urls":["http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid="]},
