@@ -322,6 +322,8 @@
 {"key":"喵派对官采","name":"喵派对官采","type":1,"api":"https://zy.miao.party/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"剧大神","name":"剧大神","type":1,"api":"http://judashen.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
 
+
+{"key":"csp_appys_抖音影视","name":"抖音影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://www.webiyeys99.com/api.php/app/"},
 {"key":"*水蜜桃","name":"*水蜜桃","type":1,"api":"http://51smt4.xyz/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
 {"key":"*玖玖资源","name":"*玖玖资源","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
 {"key":"*博天堂","name":"*博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
@@ -384,6 +386,12 @@
 ],
 "lives":[
 {"group":"douyu(Exo播放器)","channels":[
+{"name":"瑞安综合","urls":["http://stream.rabtv.cn/xwzh/playlist.m3u8?_upt=4d7279bd1633268185"]},
+{"name":"瑞安文化","urls":["http://stream.rabtv.cn/jjwh/playlist.m3u8?_upt=f355e93d1633268224"]},
+{"name":"温州新闻综合","urls":["rtmp://livetv.dhtv.cn/live/news"]},
+{"name":"凤凰资讯","urls":["http://ott.js.chinamobile.com/TVOD/3/224/3221228098/index.m3u8"]},
+{"name":"凤凰中文","urls":["http://ott.js.chinamobile.com/TVOD/3/224/3221228057/index.m3u8"]},
+{"name":"凤凰香港","urls":["http://ott.js.chinamobile.com/TVOD/3/224/3221228060/index.m3u8"]},
 {"name":"【RM-轮播】轮播！模式-24H欢乐不断","urls":["http://dyscdnali1.douyucdn.cn/live/7298973rwvQglOO6.flv?uuid="]},
 {"name":"【RM-点播】点播！模式-24H欢乐不断","urls":["http://dyscdnali1.douyucdn.cn/live/131977rb5GOrl6uS.flv?uuid="]},
 {"name":"【特辑】精彩大片，欢迎品鉴","urls":["http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid="]},
@@ -479,7 +487,12 @@
 "parses":[
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-{"name":"parwix","url":"https://jx.parwix.com:4433/player/?url="},
+
+{"name":"灵狐影视","type":1,"url":"https://api.parwix.com:4433/analysis/json/?uid=84&my=gijkmnouvxyFHPYZ28&url="},
+{"name":"黄河影视","type":1,"url":"http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url="},
+{"name":"Vip影院1","type":1,"url":"https://api.zakkpa.com:8888/analysis/json/?uid=39&my=bdfinvyBCDEJKUY089&url="},
+
+{"name":"parwix","type":0,"url":"https://jx.parwix.com:4433/player/?url="},
 {"name":"瑞丰资源","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1285201&key=bcikqtwxyADEGKUX36&url="},
 {"name":"绿箭影视2","type":1,"url":"https://json.pangujiexi.com:12345/json.php?url="},
 {"name":"筋斗云","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1494542&key=ijmqvwxABEHILMOT48&url="},
@@ -521,7 +534,8 @@
 {"name":"极客","type":1,"url":"https://sbsb.i8k.cc/?url="},
 {"name":"遗忘影视","type":1,"url":"http://gq.bywdtk.cn/?url="},
 {"name":"玺娜影视","type":1,"url":"https://balabala.yatongle.com/api/?key=RuHZpg9zxigiLZRIyl&url="},
-{"name":"林谷影视","type":1,"url":"http://jf.lemiaoyun.cn/home/api?type=ys&uid=40190120&key=dhilnoCDHLOPQRUW29&url="}
+{"name":"林谷影视","type":1,"url":"http://jf.lemiaoyun.cn/home/api?type=ys&uid=40190120&key=dhilnoCDHLOPQRUW29&url="},
+{"name":"雪人影视","type":1,"url":"https://svip.renrenmi.cc:2222/api/?key=S77lACKG9VTwNq5Upv&url="}
 ],
 "flags":[
 "youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili"
