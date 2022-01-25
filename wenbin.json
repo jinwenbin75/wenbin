@@ -417,6 +417,8 @@
 {"name":"瑞安综合","urls":["http://stream.rabtv.cn/xwzh/playlist.m3u8?_upt=4d7279bd1633268185"]},
 {"name":"瑞安文化","urls":["http://stream.rabtv.cn/jjwh/playlist.m3u8?_upt=f355e93d1633268224"]},
 {"name":"温州新闻综合","urls":["rtmp://livetv.dhtv.cn/live/news"]},
+{"name":"温州经济科教","urls":["rtmp://live.wzqmt.com/wztv2/sd/live.m3u8"]},
+{"name":"温州都市生活","urls":["rtmp://live.wzqmt.com/wztv3/sd/live.m3u8"]},  
 {"name":"凤凰资讯","urls":["http://ott.js.chinamobile.com/TVOD/3/224/3221228098/index.m3u8"]},
 {"name":"凤凰中文","urls":["http://ott.js.chinamobile.com/TVOD/3/224/3221228057/index.m3u8"]},
 {"name":"凤凰香港","urls":["http://ott.js.chinamobile.com/TVOD/3/224/3221228060/index.m3u8"]},
