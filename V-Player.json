@@ -1,6 +1,6 @@
 [{"id":29,"key":"乐多资源1","name":"乐多资源1","api":"http://cj.leduocaiji.com/inc/seacmsapi.php","download":"","jiexiUrl":"https://ldy.jx.cn/wp-api/ifr.php?vid=","group": "资源","isActive": true,"status": "可用"},
 {"id":59,"key":"快播云","name":"快播云","api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml","download":"","jiexiUrl":"","group": "资源","isActive": true,"status": "可用"},
-{"id":59,"key":"欧乐影院","name":"欧乐影院","api":"https://www.olevod.tv/api.php/provide/vod/at/xml","download":"","jiexiUrl":"","group": "资源","isActive": true,"status": "可用"}, 
+{"id":79,"key":"欧乐影院","name":"欧乐影院","api":"https://www.olevod.tv/api.php/provide/vod/at/xml","download":"","jiexiUrl":"","group": "资源","isActive": true,"status": "可用"}, 
 {"id":30,"key":"乐多资源2","name":"乐多资源2","api":"http://api.leduosj.com/inc/api.php","download":"","jiexiUrl":"https://ldy.jx.cn/wp-api/ifr.php?vid=","group": "资源","isActive": true,"status": "可用"},
 {"id":71,"key":"番茄资源","name":"番茄资源","api":"http://api.fqzy.cc/api.php/provide/vod/at/xml/","download":"","jiexiUrl":"https://jx.fqzy.cc/jx.php?url=","group": "资源","isActive": true,"status": "可用"},
 {"id":44,"key":"快播资源","name":"快播资源","api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml/","download":"","jiexiUrl":"","group": "资源","isActive": true,"status": "可用"},
