@@ -8,9 +8,9 @@
 "lunboqianzhui": "https://m.douyu.com",
 "Home": {
 "name": "饭团主页资源",
-"list": "http://television.wkfile.com/api.php/app/video?",
-"detail": "http://television.wkfile.com/api.php/app/video_detail?id=",
-"searchbefore": "http://television.wkfile.com/api.php/app/search?text=",
+"list": "https://www.tangrenjie.tv/api.php/app/video?",
+"detail": "https://www.tangrenjie.tv/api.php/app/video_detail?id=",
+"searchbefore": "https://www.tangrenjie.tv/api.php/app/search?text=",
 "searchlater": "&pg=1",
 "extra": "&limit=20&pg=",
 "shifouerciquzhi": "0",
