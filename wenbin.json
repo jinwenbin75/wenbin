@@ -286,7 +286,6 @@
 {"key":"爱搜影院","name":"爱搜影院","type":1,"api":"http://yunbangcheng.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"BL视频","name":"BL视频","type":1,"api":"https://bljiex.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"快看客栈","name":"快看客栈","type":1,"api":"https://www.vp1127.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
-{"key":"唐人街","name":"唐人街","type":0,"api":"https://www.tangrenjie.tv/api.php/provide/vod/at/xml","playUrl":""},
 {"key":"哇可可影视","name":"哇可可影视","type":1,"api":"https://www.zwcoco.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"鱼乐资源","name":"鱼乐资源","type":1,"api":"https://api.ylzy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"酷点资源","name":"酷点资源","type":1,"api":"https://api.kuapi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
