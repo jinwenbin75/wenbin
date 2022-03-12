@@ -34,7 +34,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable": 1,
-      "ext":"https://github.com/takagen99/channel/raw/master/CATVOD/main/olevod.json"},
+      "ext":"https://github.com/jinwenbin75/wenbin/raw/main/wen/CATVOD/main/olevod.json"},
    {
       "key":"独播库",
       "name":"独播库-系统",
@@ -43,7 +43,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext": "https://github.com/takagen99/channel/raw/master/CATVOD/main/duboku.json"	},
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/wen/CATVOD/main/duboku.json"	},
 //    {
 //      "key": "ysgc_spider",    // "key":"csp_Ysgc"
 //      "name": "影视工厂",
@@ -68,7 +68,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://github.com/takagen99/channel/raw/master/CATVOD/main/if101.json"},     
+      "ext":"https://github.com/jinwenbin75/wenbin/raw/main/wen/CATVOD/main/if101.json"},     
 {
       "key":"csp_xpath_ysgc",
       "name": "影视工厂",
@@ -78,7 +78,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://github.com/takagen99/channel/raw/master/CATVOD/main/ysgc.json"},
+      "ext":"https://github.com/jinwenbin75/wenbin/raw/main/wen/CATVOD/main/ysgc.json"},
 //    {
 //       "key": "csp_appys_1080P影视",
 //       "name": "1080P影视",
@@ -96,7 +96,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/takagen99/channel/raw/master/CATVOD/main/aidi.json"},
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/wen/CATVOD/main/aidi.json"},
     {
       "key": "csp_xpath_axx",
       "name": "爱西西影视",
@@ -105,7 +105,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/takagen99/channel/raw/master/CATVOD/main/axx.json"},
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/wen/CATVOD/main/axx.json"},
     {
       "key": "csp_xpath_auete",
       "name": "Auete影视",
@@ -114,7 +114,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://github.com/takagen99/channel/raw/master/CATVOD/main/auete.json"},
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/wen/CATVOD/main/auete.json"},
     {
       "key": "csp_xpath_cokemv",
       "name": "Cokemv",
@@ -123,7 +123,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/takagen99/channel/raw/master/CATVOD/main/cokem.json"},
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/wen/CATVOD/main/cokem.json"},
     {
       "key": "csp_xpath_cjt",
       "name": "CJT影视",
@@ -132,7 +132,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/takagen99/channel/raw/master/CATVOD/main/cjt.json"},
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/wen/CATVOD/main/cjt.json"},
    {
       "key":"Gimy",
       "name":"Gimy剧迷",
@@ -141,7 +141,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext": "https://github.com/takagen99/channel/raw/master/CATVOD/main/gimy.json"},
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/wen/CATVOD/main/gimy.json"},
    {
       "key":"csp_xpath_libv",
       "name":"Libvio",
@@ -150,7 +150,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable": 1,
-      "ext":"https://github.com/takagen99/channel/raw/master/CATVOD/main/libv.json"	},    
+      "ext":"https://github.com/jinwenbin75/wenbin/raw/main/wen/CATVOD/main/libv.json"	},    
    {
       "key":"csp_xpath_lezhu",
       "name":"乐猪TV",
@@ -159,7 +159,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://github.com/takagen99/channel/raw/master/CATVOD/main/lezhu.json"	},    
+      "ext":"https://github.com/jinwenbin75/wenbin/raw/main/wen/CATVOD/main/lezhu.json"	},    
    {
       "key":"csp_appys_南府追剧",
       "name":"南府追剧",
@@ -177,7 +177,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,      // no filter from website
-      "ext": "https://github.com/takagen99/channel/raw/master/CATVOD/main/saohuotv.json"},
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/wen/CATVOD/main/saohuotv.json"},
    {
       "key": "csp_YydsAli1",
       "name": "YYDS-NA",
@@ -186,7 +186,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/takagen99/channel/raw/master/CATVOD/main/yyds.json"},
+      "ext": "https://github.com/jinwenbin75/wenbin/raw/main/wen/CATVOD/main/yyds.json"},
    {
       "key":"csp_xpath_zxzj",
       "name":"在线之家",
@@ -195,7 +195,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable": 1,
-       "ext": "https://github.com/takagen99/channel/raw/master/CATVOD/main/zxzj.json"},
+       "ext": "https://github.com/jinwenbin75/wenbin/raw/main/wen/CATVOD/main/zxzj.json"},
     {
       "key":"zjdr",
       "name":"追剧达人",
@@ -219,7 +219,7 @@
      "searchable":1,
      "quickSearch":1,
      "filterable": 0,
-     "ext":"https://github.com/takagen99/channel/raw/master/CATVOD/main/miniku.json" },    
+     "ext":"https://github.com/jinwenbin75/wenbin/raw/main/wen/CATVOD/main/miniku.json" },    
    {
       "key":"csp_xpath_pianba",
       "name":"====片吧====",
@@ -228,7 +228,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://github.com/takagen99/channel/raw/master/CATVOD/main/pianba.json"},
+      "ext":"https://github.com/jinwenbin75/wenbin/raw/main/wen/CATVOD/main/pianba.json"},
       
 //    {
 //      "key": "人人迷",
@@ -262,7 +262,7 @@
 	  "searchable":1,
 	  "quickSearch":1,
 	  "filterable": 1,
-	  "ext":"https://github.com/takagen99/channel/raw/master/CATVOD/main/agefans.json"},
+	  "ext":"https://github.com/jinwenbin75/wenbin/raw/main/wen/CATVOD/main/agefans.json"},
 	{
 	  "key":"csp_xpath_dm84",
 	  "name":"动漫巴士",
@@ -271,7 +271,7 @@
 	  "searchable":1,
 	  "quickSearch":1,
 	  "filterable": 1,
-	  "ext":"https://github.com/takagen99/channel/raw/master/CATVOD/main/dm84.json"	},
+	  "ext":"https://github.com/jinwenbin75/wenbin/raw/main/wen/CATVOD/main/dm84.json"	},
 	{
 	  "key":"csp_xpath_dmw",
 	  "name":"动漫岛",
@@ -280,7 +280,7 @@
 	  "searchable":1,
 	  "quickSearch":1,
 	  "filterable": 1,
-	  "ext":"https://github.com/takagen99/channel/raw/master/CATVOD/main/dmw.json"	},
+	  "ext":"https://github.com/jinwenbin75/wenbin/raw/main/wen/CATVOD/main/dmw.json"	},
 	{
 	  "key":"csp_xpath_yh",
 	  "name":"樱花动漫",
@@ -289,7 +289,7 @@
 	  "searchable":1,
 	  "quickSearch":1,
 	  "filterable": 1,	// no filter format from website
-	  "ext":"https://github.com/takagen99/channel/raw/master/CATVOD/main/sakura.json"	},
+	  "ext":"https://github.com/jinwenbin75/wenbin/raw/main/wen/CATVOD/main/sakura.json"	},
 
 //////////////////////////////// 测试 /////////////////////////////////////
 //	{
@@ -300,7 +300,7 @@
 //	  "searchable":1,
 //	  "quickSearch":1,
 //	  "filterable": 1,
-//	  "ext":"https://github.com/takagen99/channel/raw/master/CATVOD/main/niba.json"	},
+//	  "ext":"https://github.com/jinwenbin75/wenbin/raw/main/wen/CATVOD/main/niba.json"	},
 	{
 	  "key":"csp_xpath_test",
 	  "name":"===Test===",
