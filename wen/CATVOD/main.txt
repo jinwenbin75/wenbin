@@ -333,7 +333,7 @@
         {
           "name": "redirect",
           "urls": [
-            "https://github.com/jinwenbin75/wenbin/raw/main/wen/CATVOD/mainTV.txt"
+            "https://github.com/jinwenbin75/wenbin/raw/main/wen/list.m3u"
           ]
         }
       ]
