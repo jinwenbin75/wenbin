@@ -1,27 +1,7 @@
-// https://bit.ly/cat_main
-// https://c1n.cn/KQeOj
-{ 
-"wallpaper":"https://i.imgur.com/RT4feCv.jpg",
-//https://i.imgur.com/n5M9OEc.jpg
-//https://i.imgur.com/NutnENr.jpg
-//https://i.imgur.com/K6CZ5l2.jpg    // cyber
-//https://i.imgur.com/yiWKN0I.jpg    // greenery 
-//https://i.imgur.com/pTgQ0GR.jpg    // temple
-//https://i.imgur.com/qINVNPP.jpg    // fastfood
-//https://i.imgur.com/wOwHlyi.jpg    // city scape
-//https://i.imgur.com/VNWCVSd.jpg    // howl
-//https://i.imgur.com/pJHD9M5.jpg    // ff7
-//https://i.imgur.com/SNo46YX.jpg    // cyber-2 
-	
-//////////////// OFFICIAL ////////////////	
+{
+"wallpaper": "https://picsum.photos/1280/720/?blur=10",
 //"spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
-//"spider":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/jar/custom_spider.jar",
-"spider":"http://118.190.244.195/gengduoziyuansouweixingongzhonghaobktx123/2/custom_spider.jar",
-
-//////////////// SHARERTV ////////////////
-//"spider": "https://sharertv.coding.net/p/mao/d/mao/git/raw/master/custom_spider.jar",
-
-//"spider": "https://github.com/jinwenbin75/wenbin/blob/main/wen/CATVOD/20220227.jar?raw=true",
+"spider":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
 "sites":[
 {"key":"if101资源","name":"if101资源","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","playUrl":""},  
 {"key":"唐人街","name":"唐人街","type":0,"api":"https://www.tangrenjie.tv/api.php/provide/vod/at/xml","playUrl":""},
@@ -47,7 +27,7 @@
 {"key":"csp_xpath_lranc","name":"天天影视(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/lranc.json"},
 {"key":"csp_xpath_1090ys2","name":"1090影视(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/1090ys2.json"},
 {"key":"csp_xpath_duboku","name":"独播库(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/duboku.json"},
-{"key":"csp_xpath_Ole","name":"欧乐(XPMac)(播放器要改成Exo)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/jinwenbin75/wenbin/raw/main/wen/CATVOD/main/olevod.json"},
+{"key":"csp_xpath_Ole","name":"欧乐(XPMac)(播放器要改成Exo)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/jinwenbin75/wenbin@main/xpath/olevod.json"},
 {"key":"csp_xpath_pianba","name":"片吧影院(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/pianba.json"},
 //{"key":"csp_xpath_4kpianku","name":"4k片库网(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/4kpianku.json"},
 {"key":"csp_xpath_cjt","name":"CJT影院(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/cjtys.json"},
@@ -65,7 +45,6 @@
 // M浏览器中APP影视规则支持（AppYsV2 / 2022.02.24）
 // https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json
 {"key":"csp_appysv2_星空影视","name":"星空影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"星空影视###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
-{"key":"csp_appysv2_饭团影视","name":"饭团影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"饭团影视###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
 {"key":"csp_appysv2_天空影视","name":"天空影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"天空影视###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
 {"key":"csp_appysv2_手指影视","name":"手指影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"手指影视###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
 {"key":"csp_appysv2_心爱影视","name":"心爱影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"心爱影视###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
