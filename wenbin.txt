@@ -45,6 +45,7 @@
 // M浏览器中APP影视规则支持（AppYsV2 / 2022.02.24）
 // https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json
 {"key":"csp_appysv2_星空影视","name":"星空影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"星空影视###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
+{"key":"csp_appysv2_饭团影视","name":"饭团影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"饭团影视###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
 {"key":"csp_appysv2_天空影视","name":"天空影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"天空影视###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
 {"key":"csp_appysv2_手指影视","name":"手指影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"手指影视###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
 {"key":"csp_appysv2_心爱影视","name":"心爱影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"心爱影视###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
