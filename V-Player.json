@@ -15,6 +15,7 @@
 {"id":63,"key":"爱搜影院","name":"爱搜影院","api":"http://yunbangcheng.com/api.php/provide/vod/at/xml/","download":"","jiexiUrl":"","group": "资源","isActive": true,"status": "可用"},
 {"id":33,"key":"瓜皮TV","name":"瓜皮TV","api":"http://www.dijiaxia.com/api.php/provide/vod/at/xml/","download":"","jiexiUrl":"","group": "资源","isActive": true,"status": "可用"},
 {"id":7,"key":"BL视频","name":"BL视频","api":"https://bljiex.com/api.php/provide/vod/at/xml/","download":"","jiexiUrl":"","group": "资源","isActive": true,"status": "可用"},
+{"id":59,"key":"if101资源","name":"if101资源","api":"https://demo.if101.tv/api.php/provide/vod/at/xml","download":"","jiexiUrl":"","group": "资源","isActive": true,"status": "可用"}, 
 {"id":43,"key":"快看客栈","name":"快看客栈","api":"https://www.vp1127.com/api.php/provide/vod/at/xml/","download":"","jiexiUrl":"","group": "资源","isActive": true,"status": "可用"},
 {"id":59,"key":"唐人街","name":"唐人街","api":"https://www.tangrenjie.tv/api.php/provide/vod/at/xml","download":"","jiexiUrl":"","group": "资源","isActive": true,"status": "可用"},
 {"id":53,"key":"哇可可影视","name":"哇可可影视","api":"https://www.zwcoco.com/api.php/provide/vod/at/xml/","download":"","jiexiUrl":"","group": "资源","isActive": true,"status": "可用"},
