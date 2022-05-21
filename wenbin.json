@@ -43,7 +43,7 @@
 {"key":"csp_xpath_Hdmoli","name":"🐼Hdmoli(XPF)","type":3,"api":"csp_XPathHdmoli","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/sp/hdmoli.json"},
 {"key":"csp_xpath_egg","name":"🐼蛋蛋(XPF)","type":3,"api":"csp_XPathEgg","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/sp/dandan.json"},
 {"key":"csp_xpath_Gaze","name":"🐼注视(XPF)","type":3,"api":"csp_XPathGaze","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/sp/gaze.json"},
-
+{"key":"唐人街2","name":"唐人街2","type":0,"api":"https://www.tangrenjie.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
 
 
 ## 02.🐉明接口
