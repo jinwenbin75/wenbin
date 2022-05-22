@@ -3,28 +3,6 @@
 //"spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
 
 # spider (择一使用👇)
-## 01.🐼缝合接口
-"spider":"https://github.com/YuanHsing/OneClickRun/raw/master/sp/spcustom_spider.jar",
-## 02.🐉明接口
-//"spider":"https://github.com/YuanHsing/OneClickRun/raw/master/sp/spxm.jar",
-## 03.🐱S接口
-//"spider":"https://github.com/YuanHsing/OneClickRun/raw/master/sp/spbaikan.jar",
-
-
-# 直播 (择一使用👇)
-## 01.🦋直播
-## --> spider 改 spbaikan.jar 或 spcustom_spider.jar
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1l1YW5Ic2luZy9PbmVDbGlja1J1bi9yYXcvbWFzdGVyL3NwL3NwbGl2ZS50eHQ="]}]}],
-
-## 02.🦋直播
-## --> spider 改 spxm.jar
-## --> 使用 "02.🐉明接口"时,直播要改成 "02.🦋直播 ", 适配 "🐉设置直播为首页" 这个功能)
-//"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=tvfix&type=list"]}]}],
-
-
-
-
-# 广大侠 资源网采集
 #官方解析
 //{"key":"8090资源","name":"8090资源(官)","type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"唐人街2","name":"唐人街2","type":0,"api":"https://www.tangrenjie.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
