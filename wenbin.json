@@ -1,7 +1,7 @@
 {
-"wallpaper":"https://picsum.photos/1280/720/?blur=10",
-//"spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
-
+  "spider": "https://gitee.com/CCSHCoder/CatVodTVSpider/raw/master/jar/custom_spider.jar;md5;885581303609c36c98e54c729fe3506f",
+  "sites": [
+    {
 {"key":"唐人街2","name":"唐人街2","type":0,"api":"https://www.tangrenjie.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"6U资源","name":"6U资源(官)","type":1,"api":"http://zy.ataoju.com/inc/apijson_vod.php","playUrl":"parse:parwix1","searchable":0,"quickSearch":0},
 {"key":"天堂资源","name":"天堂资源(官)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
