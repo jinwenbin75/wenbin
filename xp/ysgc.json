@@ -1,0 +1,345 @@
+{
+  "ua": "",
+  "homeUrl": "https://www.ysgc.cc",
+  "cateNode": "//ul[contains(@class,'myui-header__menu nav-menu')]/li[contains(@class, 'dropdown-hover')]//div/ul/li/a[contains(@href, 'vodtype') and not(contains(@href,'label'))]",
+  "cateName": "/text()",
+  "cateId": "/@href",
+  "cateIdR": "/vodtype/(\\w+).html",
+  "cateManual": {
+    "CN": "13",
+    "HK/TW": "14",
+    "JP/KR": "15",    
+    "US": "16",
+    "Movies": "1",
+    "Varieties": "3",    
+    "Documentary": "24",
+    "JP Anime": "26",
+    "CN Anime": "27"
+  },
+
+// Home Summary ====================================================
+  "homeVodNode": "//div[contains(@class, 'padding-0')]//ul[contains(@class,'myui-vodlist')]/li//a[contains(@class,'myui-vodlist__thumb')]",
+  "homeVodName": "/@title",
+  "homeVodId": "/@href",
+  "homeVodIdR": "/voddetail/(\\w+).html",
+  "homeVodImg": "/@data-original",
+  "homeVodImgR": "\\S+(http\\S+)",
+  "homeVodMark": "/span[contains(@class,'pic-text')]/text()",
+
+// Category Summary ================================================
+  "cateUrl": "https://www.ysgc.cc/vodshow/{cateId}-{area}--{type}-----{catePg}---{year}.html",
+//  "cateUrl": "https://www.ysgc.cc/vodshow/{cateId}--------{catePg}---2022.html",  
+  "cateVodNode": "//ul[contains(@class,'myui-vodlist')]//li//a[contains(@class,'myui-vodlist__thumb')]",
+  "cateVodName": "/@title",
+  "cateVodId": "/@href",
+  "cateVodIdR": "/voddetail/(\\w+).html",
+  "cateVodImg": "/@data-original",
+  "cateVodImgR": "\\S+(http\\S+)",
+  "cateVodMark": "/span[contains(@class,'pic-text')]/text()",
+
+// Category Details ================================================
+  "dtUrl": "https://www.ysgc.cc/voddetail/{vid}.html",
+  "dtNode": "//div[contains(@class,'col-lg-wide-75')]",
+  "dtName": "//div[@class='myui-content__thumb']/a[contains(@class,'myui-vodlist__thumb')]/@title",
+  "dtNameR": "",
+  "dtImg": "//div[@class='myui-content__thumb']/a[contains(@class,'myui-vodlist__thumb')]/img/@data-original",
+  "dtImgR": "\\S+(http\\S+)",
+  "dtCate": "//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '分类')]/following-sibling::*/text()",
+  "dtCateR": "",
+  "dtYear": "//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '年份')]/following-sibling::*/text()",
+  "dtYearR": "",
+  "dtArea": "//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '地区')]/following-sibling::*/text()",
+  "dtAreaR": "",
+  "dtMark": "//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '更新')]/following-sibling::*/text()",
+  "dtMarkR": "",
+  "dtActor": "//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '主演')]/following-sibling::*/text()",
+  "dtActorR": "",
+  "dtDirector": "//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '导演')]/following-sibling::*/text()",
+  "dtDirectorR": "",
+  "dtDesc": "//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '简介')]/parent::text()",
+  "dtDescR": "",
+  
+// Playlist ========================================================
+  "dtFromNode": "//a[@data-toggle='tab' and contains(@href, 'playlist')]",
+  "dtFromName": "/text()",
+  "dtFromNameR": "",
+  "dtUrlNode": "//div[contains(@class,'tab-content')]/div[contains(@id, 'playlist')]",
+  "dtUrlSubNode": "//li/a",
+  "dtUrlId": "/@href",
+  "dtUrlIdR": "/vodplay/(\\S+).html",
+  "dtUrlName": "/text()",
+  "dtUrlNameR": "",
+  "playUrl": "https://www.ysgc.cc/vodplay/{playUrl}.html",
+  "playUa": "",
+
+// Search Results ==================================================
+  "searchUrl": "https://www.ysgc.cc/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+  "scVodNode": "json:list",
+  "scVodName": "name",
+  "scVodId": "id",
+  "scVodIdR": "",
+  "scVodImg": "pic",
+  "scVodMark": "",
+
+// Filters =======================================================
+    "filter": {
+      "1": [         // 电影
+        {
+          "key": "type",
+          "name": "Type",
+          "value": [
+            {"n": "All","v": ""},
+            {"n": "Action","v": "动作"},
+            {"n": "Sci-Fi","v": "科幻"},
+            {"n": "Comedy","v": "喜剧"},        
+            {"n": "Love","v": "爱情"},
+            {"n": "Horror","v": "恐怖"},
+            {"n": "Anime","v": "动画"}
+          ]
+        },
+        {
+          "key": "area",
+          "name": "Area",
+          "value": [
+            {"n": "All","v": ""},
+            {"n": "CN","v": "大陆"},
+            {"n": "HK","v": "香港"},
+            {"n": "TW","v": "台湾"},        
+            {"n": "US","v": "美国"},
+            {"n": "UK","v": "英国"},
+            {"n": "JP","v": "日本"},
+            {"n": "KR","v": "韩国"},
+            {"n": "TH","v": "泰国"},
+            {"n": "OTH","v": "其他"}
+          ]
+        },
+        {
+          "key": "year",
+          "name": "Year",
+          "value": [
+            {"n": "All","v": ""},
+            {"n": "2022","v": "2022"},              
+            {"n": "2021","v": "2021"},
+            {"n": "2020","v": "2020"},
+            {"n": "2019","v": "2019"},
+            {"n": "2018","v": "2018"},
+            {"n": "2017","v": "2017"},
+            {"n": "2016","v": "2016"},
+            {"n": "2015","v": "2015"},
+            {"n": "2014","v": "2014"},
+            {"n": "2013","v": "2013"},
+            {"n": "2012","v": "2012"},
+            {"n": "2011","v": "2011"},
+            {"n": "2010","v": "2010"}
+          ]
+        }
+      ],
+      "13": [         // 国产剧
+        {
+          "key": "year",
+          "name": "Year",
+          "value": [
+            {"n": "All","v": ""},
+            {"n": "2022","v": "2022"},              
+            {"n": "2021","v": "2021"},
+            {"n": "2020","v": "2020"},
+            {"n": "2019","v": "2019"},
+            {"n": "2018","v": "2018"},
+            {"n": "2017","v": "2017"},
+            {"n": "2016","v": "2016"},
+            {"n": "2015","v": "2015"},
+            {"n": "2014","v": "2014"},
+            {"n": "2013","v": "2013"},
+            {"n": "2012","v": "2012"},
+            {"n": "2011","v": "2011"},
+            {"n": "2010","v": "2010"}
+          ]
+        }
+      ],
+      "14": [         // 港台剧
+        {
+          "key": "year",
+          "name": "Year",
+          "value": [
+            {"n": "All","v": ""},
+            {"n": "2022","v": "2022"},              
+            {"n": "2021","v": "2021"},
+            {"n": "2020","v": "2020"},
+            {"n": "2019","v": "2019"},
+            {"n": "2018","v": "2018"},
+            {"n": "2017","v": "2017"},
+            {"n": "2016","v": "2016"},
+            {"n": "2015","v": "2015"},
+            {"n": "2014","v": "2014"},
+            {"n": "2013","v": "2013"},
+            {"n": "2012","v": "2012"},
+            {"n": "2011","v": "2011"},
+            {"n": "2010","v": "2010"}
+          ]
+        }
+      ],
+      "15": [         // 日韩剧
+        {
+          "key": "area",
+          "name": "Area",
+          "value": [
+            {"n": "All","v": ""},
+            {"n": "JP","v": "日本"},
+            {"n": "KR","v": "韩国"}
+          ]
+        },
+        {
+          "key": "year",
+          "name": "Year",
+          "value": [
+            {"n": "All","v": ""},
+            {"n": "2022","v": "2022"},              
+            {"n": "2021","v": "2021"},
+            {"n": "2020","v": "2020"},
+            {"n": "2019","v": "2019"},
+            {"n": "2018","v": "2018"},
+            {"n": "2017","v": "2017"},
+            {"n": "2016","v": "2016"},
+            {"n": "2015","v": "2015"},
+            {"n": "2014","v": "2014"},
+            {"n": "2013","v": "2013"},
+            {"n": "2012","v": "2012"},
+            {"n": "2011","v": "2011"},
+            {"n": "2010","v": "2010"}
+          ]
+        }
+      ],
+      "16": [         // 欧美剧
+        {
+          "key": "year",
+          "name": "Year",
+          "value": [
+            {"n": "All","v": ""},
+            {"n": "2022","v": "2022"},              
+            {"n": "2021","v": "2021"},
+            {"n": "2020","v": "2020"},
+            {"n": "2019","v": "2019"},
+            {"n": "2018","v": "2018"},
+            {"n": "2017","v": "2017"},
+            {"n": "2016","v": "2016"},
+            {"n": "2015","v": "2015"},
+            {"n": "2014","v": "2014"},
+            {"n": "2013","v": "2013"},
+            {"n": "2012","v": "2012"},
+            {"n": "2011","v": "2011"},
+            {"n": "2010","v": "2010"}
+          ]
+        }
+      ],
+      "26": [         // 日漫
+        {
+          "key": "year",
+          "name": "Year",
+          "value": [
+            {"n": "All","v": ""},
+            {"n": "2022","v": "2022"},              
+            {"n": "2021","v": "2021"},
+            {"n": "2020","v": "2020"},
+            {"n": "2019","v": "2019"},
+            {"n": "2018","v": "2018"},
+            {"n": "2017","v": "2017"},
+            {"n": "2016","v": "2016"},
+            {"n": "2015","v": "2015"},
+            {"n": "2014","v": "2014"},
+            {"n": "2013","v": "2013"},
+            {"n": "2012","v": "2012"},
+            {"n": "2011","v": "2011"},
+            {"n": "2010","v": "2010"}
+          ]
+        }
+      ],
+      "27": [         // 国漫
+        {
+          "key": "year",
+          "name": "Year",
+          "value": [
+            {"n": "All","v": ""},
+            {"n": "2022","v": "2022"},              
+            {"n": "2021","v": "2021"},
+            {"n": "2020","v": "2020"},
+            {"n": "2019","v": "2019"},
+            {"n": "2018","v": "2018"},
+            {"n": "2017","v": "2017"},
+            {"n": "2016","v": "2016"},
+            {"n": "2015","v": "2015"},
+            {"n": "2014","v": "2014"},
+            {"n": "2013","v": "2013"},
+            {"n": "2012","v": "2012"},
+            {"n": "2011","v": "2011"},
+            {"n": "2010","v": "2010"}
+          ]
+        }
+      ],
+      "3": [         // 综艺
+        {
+          "key": "area",
+          "name": "Area",
+          "value": [
+            {"n": "All","v": ""},
+            {"n": "CN","v": "内地"},
+            {"n": "HK","v": "港台"},
+            {"n": "JP","v": "日韩"},
+            {"n": "US","v": "欧美"}
+          ]
+        },        
+        {
+          "key": "year",
+          "name": "Year",
+          "value": [
+            {"n": "All","v": ""},
+            {"n": "2022","v": "2022"},              
+            {"n": "2021","v": "2021"},
+            {"n": "2020","v": "2020"},
+            {"n": "2019","v": "2019"},
+            {"n": "2018","v": "2018"},
+            {"n": "2017","v": "2017"},
+            {"n": "2016","v": "2016"},
+            {"n": "2015","v": "2015"},
+            {"n": "2014","v": "2014"},
+            {"n": "2013","v": "2013"},
+            {"n": "2012","v": "2012"},
+            {"n": "2011","v": "2011"},
+            {"n": "2010","v": "2010"}
+          ]
+        }
+      ],
+      "4": [         // 动漫
+        {
+          "key": "area",
+          "name": "Area",
+          "value": [
+            {"n": "All","v": ""},
+            {"n": "CN","v": "国产"},
+            {"n": "JP","v": "日本"},
+            {"n": "US","v": "欧美"},
+            {"n": "OTH","v": "其他"}
+          ]
+        },        
+        {
+          "key": "year",
+          "name": "Year",
+          "value": [
+            {"n": "All","v": ""},
+            {"n": "2022","v": "2022"},              
+            {"n": "2021","v": "2021"},
+            {"n": "2020","v": "2020"},
+            {"n": "2019","v": "2019"},
+            {"n": "2018","v": "2018"},
+            {"n": "2017","v": "2017"},
+            {"n": "2016","v": "2016"},
+            {"n": "2015","v": "2015"},
+            {"n": "2014","v": "2014"},
+            {"n": "2013","v": "2013"},
+            {"n": "2012","v": "2012"},
+            {"n": "2011","v": "2011"},
+            {"n": "2010","v": "2010"}
+          ]
+        }
+      ]
+    }
+  }
