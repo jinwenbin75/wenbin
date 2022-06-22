@@ -14,7 +14,7 @@
 // http://xxx/api.php/app/
 // https://xxx/xgapp.php/v2/
 // http://xxx/mogai_api.php/v1.vod
-{"name":"默认主页","url":"https://www.tegouys.com/xgapp.php/v2.vod"},
+{"name":"默认主页","url":"https://www.tangrenjie.tv/api.php/provide/vod/at/xml"},
 {"name":"追剧TV(萝卜)","url":"http://111.229.120.180:88/lvdou_api.php/v2.vod"},
 {"name":"渔渔影视(萝卜)","url":"http://luobo.yugenye.site/api.php/v1.vod"},
 {"name":"余生影视(萝卜)","url":"http://yu.cuicanys.cn/lvdou_api.php/v1.vod"},
@@ -114,7 +114,6 @@
 // 填采集站接口,
 // 采集站后缀填写到api.php就可以了，后面那些不用填写，一次只可以填写一个。
 {"name":"唐人街","url":"https://www.tangrenjie.tv/api.php"},
-{"name":"酷云77","url":"http://api.kunyu77.com/api.php"},
 {"name":"if101(海外推荐)","url":"https://demo.if101.tv/api.php"},
 {"name":"苹果采集","url":"http://107.150.5.146:39000/maccms10-main/api.php"},
 {"name":"特狗影视","url":"http://tv.tegouys.com/api.php/iptv/vod/"},
@@ -183,7 +182,6 @@
 {"name":"U酷资源(优)","url":"https://api.ukuapi.com/api.php"},
 {"name":"看看资源(优)","url":"https://zy.hikan.xyz/api.php"},
 {"name":"淘片资源(优)","url":"https://taopianapi.com/home/cjapi"},
-{"name":"一帆资源(VPN)(优)","url":"http://api.if101.tv/v1/vod"},
 {"name":"789盘(优)","url":"https://www.rrvipw.com/api.php"},
 {"name":"旋风云(优)","url":"http://appimg.ssxmall.cn/api.php"},
 {"name":"奈菲迷(优)","url":"https://app.netflixmi.com/ruifenglb_api.php"},
