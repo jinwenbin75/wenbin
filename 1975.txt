@@ -14,8 +14,17 @@
 // http://xxx/api.php/app/
 // https://xxx/xgapp.php/v2/
 // http://xxx/mogai_api.php/v1.vod
-{"name":"4K影院","url":"http://1api.4kdytv.com/api.php/v1.vod"},
+{"name":"默认主页","url":"https://www.tegouys.com/xgapp.php/v2/"},
+{"name":"追剧TV(萝卜)","url":"http://111.229.120.180:88/lvdou_api.php/v2.vod"},
+{"name":"渔渔影视(萝卜)","url":"http://luobo.yugenye.site/api.php/v1.vod"},
+{"name":"余生影视(萝卜)","url":"http://yu.cuicanys.cn/lvdou_api.php/v1.vod"},
 {"name":"影视猫(萝卜)","url":"https://vip.wscyun.com/api.php/v1.vod"},
+{"name":"影视大全(萝卜)","url":"https://xc.xixi2yy.xyz/mogai_api.php/v1.vod"},{"name":"默认主页","url":"https://www.tegouys.com/xgapp.php/v2/"},
+{"name":"追剧TV(萝卜)","url":"http://111.229.120.180:88/lvdou_api.php/v2.vod"},
+{"name":"渔渔影视(萝卜)","url":"http://luobo.yugenye.site/api.php/v1.vod"},
+{"name":"余生影视(萝卜)","url":"http://yu.cuicanys.cn/lvdou_api.php/v1.vod"},
+{"name":"影视猫(萝卜)","url":"https://vip.wscyun.com/api.php/v1.vod"},
+{"name":"影视大全(萝卜)","url":"https://xc.xixi2yy.xyz/mogai_api.php/v1.vod"},
 {"name":"影视大全(萝卜)","url":"https://xc.xixi2yy.xyz/mogai_api.php/v1.vod"},
 {"name":"呀哩动漫(萝卜)","url":"https://app.yaliyali.cc/api.php/v1.vod"},
 {"name":"影库(萝卜)","url":"https://yingkudy.com/lvdou_api.php/v1.vod"},
