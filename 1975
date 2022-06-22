@@ -14,8 +14,7 @@
 // http://xxx/api.php/app/
 // https://xxx/xgapp.php/v2/
 // http://xxx/mogai_api.php/v1.vod
-{"name":"唐人街","url":"https://www.tangrenjie.tv/api.php/v1.vod"},
-{"name":"余生影视(萝卜)","url":"http://yu.cuicanys.cn/lvdou_api.php/v1.vod"},
+
 {"name":"影视猫(萝卜)","url":"https://vip.wscyun.com/api.php/v1.vod"},
 {"name":"影视大全(萝卜)","url":"https://xc.xixi2yy.xyz/mogai_api.php/v1.vod"},
 {"name":"呀哩动漫(萝卜)","url":"https://app.yaliyali.cc/api.php/v1.vod"},
