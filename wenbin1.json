@@ -66,7 +66,6 @@
 {"key":"随缘电影","name":"随缘电影(聚)","type":1,"api":"https://baobei666.com/inc/apijson_vod.php","playUrl":"parse:parwix1","searchable":0,"quickSearch":0},
 {"key":"飘零影院","name":"飘零影院(聚)","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"酷点影视","name":"酷点影视(聚)","type":1,"api":"http://ys.kudian6.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"艾旦影视","name":"艾旦影视(聚)","type":1,"api":"https://lovedan.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"艾思影院","name":"艾思影院(聚)","type":1,"api":"https://www.aitee.cc/api.php/provide/vod/","playUrl":"https://jx.zjmiao.com/?url=","searchable":1,"quickSearch":1},
 {"key":"VV影视","name":"VV影视(聚)","type":1,"api":"https://vvdy.org/api.php/provide/vod/","playUrl":"https://vvdy.org/dm/?url=","searchable":1,"quickSearch":1},
 {"key":"趣看","name":"趣看(聚)","type":1,"api":"https://qkmp4.cn/api.php/provide/vod/","searchable":0,"quickSearch":0},
@@ -265,15 +264,15 @@
       "group": "卫视",
       "channels": [
         {
-          "name": "安徽卫视",
+          "name": "瑞安1台",
           "urls": [
-            "http://223.110.241.206:6610/gitv/live1/G_ANHUI-HD-265-5M/G_ANHUI-HD-265-5M"
+            "http://stream.rabtv.cn/xwzh/playlist.m3u8?_upt=488870621633702282"
           ]
         },
         {
-          "name": "北京卫视",
+          "name": "瑞安2台",
           "urls": [
-            "http://223.110.241.206:6610/gitv/live1/G_BEIJING-HD-265-5M/G_BEIJING-HD-265-5M"
+            "http://stream.rabtv.cn/jjwh/playlist.m3u8?_upt=676e94fd1633702327"
           ]
         },
         {
