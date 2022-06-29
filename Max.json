@@ -301,7 +301,7 @@
 "lives": [
     {
       "group": "redirect",
-      "channels": [
+      "channels": ["https://github.com/jinwenbin75/wenbin/raw/main/zb2.txt"
         {
 
             "https://github.com/jinwenbin75/wenbin/raw/main/zb2.txt"
