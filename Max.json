@@ -303,8 +303,7 @@
       "group": "redirect",
       "channels": [
         {
-          "name": "redirect",
-          "urls": [
+
             "https://github.com/jinwenbin75/wenbin/raw/main/zb2.txt"
           ]
         }
