@@ -1,5 +1,5 @@
 {
-"spider":"http://118.190.244.195/tvmovie/custom_spider.jar",
+"spider":"https://github.com/jinwenbin75/wenbin/raw/main/xp/custom_spider.jar",
 
 "sites": [
   {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
