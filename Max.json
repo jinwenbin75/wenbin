@@ -305,7 +305,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovL2dnLmdnL1pKUTY2Ng=="
+            "https://github.com/jinwenbin75/wenbin/raw/main/zb2.txt"
           ]
         }
       ]
