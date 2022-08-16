@@ -3,7 +3,7 @@
 
 
 {
-"spider":"https://github.com/jinwenbin75/wenbin/raw/main/jar/custom_spider.jar",
+"spider":"https://github.com/jinwenbin75/wenbin/raw/main/jar/0815.jar",
 // "spider":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA4.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1l1YW5Ic2luZy9mcmVlZC9yYXcvbWFzdGVyL3R2L2xpdmUudHh0"]}]}],
   
