@@ -3,12 +3,11 @@
 
 
 {
-"spider":"https://github.com/jinwenbin75/wenbin/raw/main/jar/0815.jar.jar;md5;D22ECABC487AE22B2B05A8DB11C1107D",
+"spider":"https://github.com/jinwenbin75/wenbin/raw/main/jar/0815.jar.",
 // "spider":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA4.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1l1YW5Ic2luZy9mcmVlZC9yYXcvbWFzdGVyL3R2L2xpdmUudHh0"]}]}],
   
 "sites":[
-{"key": "293视频","name":"293视频","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"csp_Nbys","name":"🐼泥巴(SP需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://github.com/jinwenbin75/wenbin/raw/main/jar/baddychen0608.jar"},  
 {"key":"If101","name":"If101","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"唐人街","name":"唐人街","type":0,"api":"https://www.tangrenjie.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":[]},  
