@@ -3,7 +3,6 @@
 
 {
 "spider":"https://github.com/jinwenbin75/wenbin/raw/main/jar/0815.jar",
-// "spider":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA4.jar",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
