@@ -13,6 +13,7 @@
 	}],
 
 "sites":[
+	
 {"key":"csp_Nbys","name":"👑泥巴(墙外)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"If101","name":"💿If101(墙外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},	
 {"key":"csp_xpath_Ole","name":"欧乐(XPF)(播放器要改成Exo)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/olevod.json"},
@@ -355,9 +356,11 @@
 {"key":"*速度资源","name":"*速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":0,"quickSearch":0},
 {"key":"*KK写真资源","name":"*KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*61783","name":"*61783","type":1,"api":"https://61783.xyz/api.php/provide/art/","searchable":0,"quickSearch":0},
+#
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
 ],
 
- "parses": [{
+"parses":[
 		"name": "解析聚合",
 		"type": 3,
 		"url": "Demo"
