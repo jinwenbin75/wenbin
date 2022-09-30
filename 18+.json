@@ -8,7 +8,7 @@
 "spider":"https://github.com/jinwenbin75/wenbin/raw/main/jar/18.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL2ppbndlbmJpbjc1L3dlbmJpbi9yYXcvbWFpbi9UVi8xOCUyQi50eHQ"
+"proxy://do=live&type=txt&ext=https://github.com/jinwenbin75/wenbin/raw/main/TV/18%2B.txt"
 ]}]}],
 
 
