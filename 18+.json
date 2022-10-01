@@ -14,6 +14,14 @@
 
 "sites":[
 {
+      "key": "哔哩哔哩",
+      "name": "哔哩哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "filterable": 1
+    },
+{
       "key": "AList",
       "name": "AList",
       "type": 3,
