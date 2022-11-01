@@ -198,27 +198,29 @@ LexBurner,http://zzy789.xyz/bili.php?id=11365
 福州少儿[1920*1080],http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 
 🗼港澳台,#genre#
-凤凰资讯,http://stream.guihet.com/t/ifeng2.php?id=1?zgangd
-凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8?zgangd
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
-凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8?zgangd
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8 
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8 
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 凤凰香港,http://stream.guihet.com/t/ifeng2.php?id=3?zgangd
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/2020215104547.m3u8?zgangd
 凤凰香港,http://183.207.249.34/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8?zgangd
-凤凰中文,http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1?zgangd
-凤凰中文,http://39.135.55.7:6610/PLTV/88888888/224/3221227222/1ndex.m3u8?servicetype=1&IASHttpSessionld=OTT&IASHttpSessionId=OTT3514020220406143948025713?zgangd
-凤凰中文,http://39.135.55.7:6610/PLTV/88888888/224/3221227222/1ndex.m3u8?servicetype=1&IASHttpSessionld=OTT?zgangd
-凤凰中文,http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1?zgangd
-凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8?zgangd
-凤凰中文,http://stream.guihet.com/t/ifeng2.php?id=2?zgangd
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8 
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8 
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8 
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8 
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8 
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8 
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd
 翡翠台,http://120.84.96.43:808/hls/25/index.m3u8
 明珠台,http://120.84.96.43:808/hls/26/index.m3u8
@@ -235,8 +237,11 @@ J2,http://120.84.96.43:808/hls/86/index.m3u8
 明珠台,http://120.84.96.46:808/hls/26/index.m3u8
 明珠台,http://120.84.96.42:808/hls/26/index.m3u8
 明珠台,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
-J2,http://120.84.96.46:808/hls/86/index.m3u8
-J2,http://120.84.96.42:808/hls/86/index.m3u8
+J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+J2,http://120.84.96.195:808/hls/86/index.m3u8 
+J2,http://120.84.96.196:808/hls/86/index.m3u8 
+J2,http://120.84.96.221:808/hls/86/index.m3u8 
+J2,http://120.84.96.222:808/hls/86/index.m3u8
 ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 ViuTV6,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 天映电影,http://120.84.96.46:808/hls/85/index.m3u8
@@ -257,7 +262,6 @@ TVB J1 [粤语],https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595
 无线财经资讯,http://liuy.usa7.20212021.ga/ns.php?id=79
 明珠台,http://liuy.usa7.20212021.ga/ns.php?id=77
 无线财经,http://liuy.usa7.20212021.ga/ns.php?id=73
-J2,http://liuy.usa7.20212021.ga/ns.php?id=71
 香港卫视,http://liuy.usa7.20212021.ga/ns.php?id=93
 ViuTv,http://liuy.usa7.20212021.ga/ns.php?id=94
 香港开电视,http://liuy.usa7.20212021.ga/ns.php?id=95
